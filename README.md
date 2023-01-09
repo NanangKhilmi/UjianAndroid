@@ -1,7 +1,7 @@
 # APLIKASI ANDROID
-###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview edit oleh Nanang
+###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview diedit oleh Raizer
 
 ### Dibuat Oleh :
-##### Muhammad Nanang Khilmi Wibowo
+##### Raizer
 ### NIM
 ##### G.111.21.0002
